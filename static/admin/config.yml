@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: cdapnrti/cdapn
+  repo: cdapnrti/cdapnetlify/assets/products/
   branch: master
 
 media_folder: media_folder
