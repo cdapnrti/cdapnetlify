@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nuxt",
     "production": "nuxt build",
-    "now-build": "nuxt generate"
+    "now-build": "nuxt generate",
     "start": "nuxt start"
   },
   "repository": {
